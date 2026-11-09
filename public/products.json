@@ -1,0 +1,35 @@
+[
+  {
+    "id": "p1",
+    "name": "AI 提示词效率套装",
+    "category": "提示词",
+    "price": 19.9,
+    "description": "适合日常办公与内容创作的提示词模板（演示商品）",
+    "stock": 30,
+    "delivery": "code",
+    "active": true,
+    "emoji": "✨"
+  },
+  {
+    "id": "p2",
+    "name": "AI 视频创作入门教程",
+    "category": "数字教程",
+    "price": 39,
+    "description": "从脚本到成片的基础工作流（演示商品）",
+    "stock": 99,
+    "delivery": "text",
+    "active": true,
+    "emoji": "🎬"
+  },
+  {
+    "id": "p3",
+    "name": "AI 自动化工作流模板",
+    "category": "自动化",
+    "price": 29.9,
+    "description": "常见工作流程的自动化模板（演示商品）",
+    "stock": 99,
+    "delivery": "text",
+    "active": true,
+    "emoji": "⚡"
+  }
+]
